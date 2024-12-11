@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prdb\\Desktop\\JDJD\\ConsoleApp9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C55BA08F-C9C0-44DC-B6C4-551CBC5E7FC6}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\prdb\\desktop\\jdjd\\consoleapp9\\consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55BA08F-C9C0-44DC-B6C4-551CBC5E7FC6}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55BA08F-C9C0-44DC-B6C4-551CBC5E7FC6}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\prdb\\desktop\\jdjd\\consoleapp9\\consoleapp9\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55BA08F-C9C0-44DC-B6C4-551CBC5E7FC6}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55BA08F-C9C0-44DC-B6C4-551CBC5E7FC6}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\prdb\\desktop\\jdjd\\consoleapp9\\consoleapp9\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55BA08F-C9C0-44DC-B6C4-551CBC5E7FC6}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55BA08F-C9C0-44DC-B6C4-551CBC5E7FC6}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\prdb\\desktop\\jdjd\\consoleapp9\\consoleapp9\\warior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55BA08F-C9C0-44DC-B6C4-551CBC5E7FC6}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\warior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55BA08F-C9C0-44DC-B6C4-551CBC5E7FC6}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\prdb\\desktop\\jdjd\\consoleapp9\\consoleapp9\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55BA08F-C9C0-44DC-B6C4-551CBC5E7FC6}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\JDJD\\ConsoleApp9\\ConsoleApp9\\Field.cs",
+              "RelativeDocumentMoniker": "ConsoleApp9\\Field.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\JDJD\\ConsoleApp9\\ConsoleApp9\\Field.cs",
+              "RelativeToolTip": "ConsoleApp9\\Field.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwDQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:10:19.601Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Warior.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\JDJD\\ConsoleApp9\\ConsoleApp9\\Warior.cs",
+              "RelativeDocumentMoniker": "ConsoleApp9\\Warior.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\JDJD\\ConsoleApp9\\ConsoleApp9\\Warior.cs",
+              "RelativeToolTip": "ConsoleApp9\\Warior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:10:20.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\JDJD\\ConsoleApp9\\ConsoleApp9\\Character.cs",
+              "RelativeDocumentMoniker": "ConsoleApp9\\Character.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\JDJD\\ConsoleApp9\\ConsoleApp9\\Character.cs",
+              "RelativeToolTip": "ConsoleApp9\\Character.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:10:18.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Archer.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\JDJD\\ConsoleApp9\\ConsoleApp9\\Archer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp9\\Archer.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\JDJD\\ConsoleApp9\\ConsoleApp9\\Archer.cs",
+              "RelativeToolTip": "ConsoleApp9\\Archer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:10:15.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\JDJD\\ConsoleApp9\\ConsoleApp9\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp9\\Program.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\JDJD\\ConsoleApp9\\ConsoleApp9\\Program.cs",
+              "RelativeToolTip": "ConsoleApp9\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:09:30.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
